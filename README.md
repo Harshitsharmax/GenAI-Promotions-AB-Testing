@@ -1,9 +1,10 @@
-# 📧 A/B Email Testing App using Gemini API
+# 📧 A/B Email Testing App
 
-Welcome to the **A/B Email Testing App**, a streamlined and interactive application that helps marketers, product teams, and email campaign designers test multiple promotional email variants for effectiveness. This app utilizes Google's **Gemini API** to generate high-quality, personalized emails based on user inputs like location, interests, and communication style.
+Welcome to the **A/B Email Testing App**, a streamlined and interactive application that helps marketers, product teams, and email campaign designers test multiple promotional email variants for effectiveness. This app utilizes **Modern LLMs API** to generate high-quality, personalized emails based on user inputs like location, interests, and communication style.
 
 Built with **Streamlit**, this app offers a seamless way to generate, preview, and compare email versions side-by-side, and capture feedback with one click.
 
+Try the [🚀WebApp](https://promotional-emails-genai.streamlit.app/)
 ---
 
 ## 🚀 Features
@@ -106,9 +107,9 @@ streamlit run main.py
 
 ## 📸 Screenshots
 
-| Email Generation Form | Email Comparison | Email Preview |
-|-----------------------|------------------|---------------|
-| ![Form](docs/form.png) | ![Compare](docs/compare.png) | ![Preview](docs/preview.png) |
+![mainform](https://github.com/user-attachments/assets/eaa79b7d-f4f3-4c78-b76f-b0e8467a50e3)
+![compareoutput](https://github.com/user-attachments/assets/3a7ed767-ed43-4d47-8f78-3444a1dcff2e)
+![appwithsidebar](https://github.com/user-attachments/assets/e510da17-7df0-48cf-ae44-3468b4a1e846)
 
 ---
 
