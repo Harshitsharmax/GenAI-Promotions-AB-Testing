@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Harshit",
+    "location": "Delhi",
+    "interests": "Reading Books, music, travel",
+    "style": "Friendly",
+    "email_a": "**Subject: Delhi Adventures Await, Harshit! (Plus a Free Book!)**\n\n**Body:**\n\nHey Harshit,\n\nGuess what? We know you're a Delhi-based bookworm who loves music and travel! That's why we think you'll LOVE our new \"Explore Delhi\" subscription box.\n\nImagine this: Curated local experiences, maps to hidden gems, and even a new book about Delhi history or culture delivered right to your doorstep!\n\nPlus, this month only, new subscribers get a FREE copy of \"Midnight's Children\" by Salman Rushdie.\n\nReady to discover a new side of Delhi?\n\n**Click here to explore: [Insert Link Here]**\n\nHappy exploring!\n\nThe [Your Company Name] Team",
+    "email_b": "**Subject: Hey Harshit, Escape Delhi with Books & Beats!**\n\n**Body:**\n\nHey Harshit,\n\nSpotted you're into reading, music, and travel! Ever dream of combining all three?\n\nWe're \"Wanderlust Reads,\" a community connecting book lovers with incredible travel experiences. Imagine exploring new cities with a curated playlist and a book that perfectly captures the vibe.\n\nRight now, we're offering a special discount of 20% on your first \"Book & Trip\" package. Think Jaipur with historical fiction, or maybe Rishikesh with spiritual melodies?\n\nDelhi's great, but a change of scenery might be calling! Click here to explore destinations: [insert link here].\n\nHappy travels (and reading!),\n\nThe Wanderlust Reads Team",
+    "choice": "Email B"
+  },
+  {
+    "name": "Akshay",
+    "location": "Greater Noida",
+    "interests": "Gaming, Jogging, Walking",
+    "style": "Inspirational",
+    "email_a": "**Subject: Level Up Your Life, Akshay! (Greater Noida Edition)**\n\n**Body:**\n\nHey Akshay,\n\nImagine Greater Noida as your ultimate playground! Are you ready to conquer it?\n\nWhether it's leveling up your gaming skills, smashing personal bests on your morning jog, or exploring new walking trails \u2013 this is YOUR time.\n\nWe\u2019ve got exclusive deals on gear designed to fuel your passions. Think lightning-fast gaming headsets, performance-boosting running shoes, and comfortable walking apparel, all available right here in Greater Noida!\n\n**Unlock your potential. Start exploring today!** [Link to website/offer]\n\nLet's make Greater Noida your arena.",
+    "email_b": "**Subject: Level Up Your Life, Akshay! (Greater Noida Awaits)**\n\n**Body:**\n\nHey Akshay,\n\nIsn't it time to unlock your next achievement? Greater Noida is calling, offering endless opportunities to energize your passions!\n\nImagine crushing new personal bests on your jog, exploring hidden pathways on your walks, and conquering virtual worlds with unmatched focus. **We're talking about fueling your gaming prowess with real-world vitality.**\n\nDon't let another day slip by. Transform your routine into a winning streak. Start living a life where every step, every game, every breath is a victory.\n\n**Your adventure begins now. Let's go!**",
+    "choice": "It's a tie"
+  },
+  {
+    "name": "Kohli",
+    "location": "Mumbai",
+    "interests": "Travelling, Luxury cars",
+    "style": "Professional",
+    "email_a": "**Subject: Elevate Your Mumbai Journey, Kohli**\n\n**Body:**\n\nKohli,\n\nAs a discerning individual with a passion for luxury and travel, you understand the importance of a seamless and reliable driving experience.\n\nAt [Dealership Name], we offer a complete suite of services tailored to meet your automotive needs in Mumbai. Whether you're looking to **upgrade to a newer model**, **sell your current vehicle at a premium**, or require **expert servicing and maintenance**, we provide unparalleled support.\n\nOur services include comprehensive **legal paperwork assistance** and **dedicated technical support**, ensuring a hassle-free ownership experience.\n\nDiscover the difference of owning and maintaining a luxury vehicle with complete peace of mind.\n\nVisit [Website Address] or call us at [Phone Number] to schedule a consultation.",
+    "email_b": "**Subject: Elevate Your Journey, Kohli - Luxury Car Solutions in Mumbai**\n\n**Body:**\n\nKohli,\n\nAs a fellow enthusiast of travel and luxury vehicles in Mumbai, we understand the importance of seamless ownership.\n\nAt [Dealership Name], we offer a comprehensive suite of services designed to enhance your automotive experience. Whether you're considering **selling, acquiring, or maintaining** your prized possession, we provide expert assistance every step of the way.\n\nFrom hassle-free reselling and impeccable servicing to simplified legal paperwork and dedicated technical support, we ensure your journey is as exceptional as your destination.\n\n**Ready to elevate your automotive experience?**\n\nVisit us at [Dealership Address in Mumbai] or call [Phone Number] to discover how we can assist you.\n\nSincerely,\n\nThe [Dealership Name] Team",
+    "choice": "Email A"
+  }
+]
